@@ -1,0 +1,10 @@
+,max_salary,max_salary,max_salary,max_salary,max_salary
+,count,mean,median,min,max
+formatted_experience_level,,,,,
+Associate,3467,64038.98,65000.0,2.0,800000.0
+Director,1200,192884.76,185245.0,1.0,1000000.0
+Entry Level,6378,46100.54,52.0,7.0,640037.0
+Executive,356,224205.17,220000.0,22.0,1000001.0
+Internship,245,15561.92,30.0,15.0,300000.0
+Mid-Senior Level,11450,100939.3,104580.0,11.5,1220000.0
+Not Specified,6697,112316.63,83375.0,7.25,120000000.0

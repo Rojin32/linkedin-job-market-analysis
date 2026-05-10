@@ -1,0 +1,54 @@
+
+JOB MARKET ANALYSIS REPORT
+============================================================
+
+MARKET SIZE:
+- Total Job Postings: 123,848
+- Unique Companies: 24,429
+- Unique Job Titles: 72,521
+
+SALARY INSIGHTS:
+- Average Min Salary: $64,909
+- Average Max Salary: $91,937
+- Median Salary: $72,438
+
+WORK TYPE DISTRIBUTION:
+work_type
+Full-time     98814
+Contract      12116
+Part-time      9696
+Temporary      1190
+Unknown        1049
+Internship      983
+
+EXPERIENCE LEVEL DISTRIBUTION:
+formatted_experience_level
+Mid-Senior Level    41488
+Entry Level         36708
+Not Specified       29409
+Associate            9826
+Director             3746
+Internship           1449
+Executive            1222
+
+REMOTE WORK ADOPTION:
+- Remote Jobs: 15,246 (12.3%)
+- On-site Jobs: 108,602
+
+ENGAGEMENT METRICS:
+- Average Views per Job: 14.4
+- Average Applications: 2.0
+- Average Engagement Rate: 3.24%
+
+TOP HIRING COMPANIES:
+company_name
+Unknown Company                                   1719
+Liberty Healthcare and Rehabilitation Services    1108
+The Job Network                                   1003
+J. Galt                                            604
+TEKsystems                                         529
+Lowe's Companies, Inc.                             527
+Ingersoll Rand                                     517
+Capital One                                        496
+Cogent Communications                              476
+Insight Global                                     418
