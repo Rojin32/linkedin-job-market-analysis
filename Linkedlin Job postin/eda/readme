@@ -89,24 +89,3 @@ Sponsored job postings receive higher engagement
 Entry-level positions contribute significantly to hiring volume
 
 
-
-linkedin-job-market-analysis/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   └── eda.ipynb
-│
-├── dashboard/
-│   └── linkedin_jobs_dashboard.pbix
-│
-├── visualizations/
-│
-├── screenshots/
-│
-├── requirements.txt
-│
-└── README.md
